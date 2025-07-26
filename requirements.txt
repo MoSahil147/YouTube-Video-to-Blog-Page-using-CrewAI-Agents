@@ -1,0 +1,16 @@
+crewai
+crewai_tools
+load_dotenv
+langchain-huggingface
+
+streamlit
+faiss-cpu
+langchain
+langchain-community
+langchain-core
+langchain-nvidia-ai-endpoints
+langchain-huggingface
+python-dotenv
+crewai
+crewai_tools
+youtube-transcript-api
